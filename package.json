@@ -1,0 +1,28 @@
+{
+  "name": "redimension",
+  "version": "1.0.0",
+  "description": "Redis multi-dimensional query library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rolandpoulter/node-redimension"
+  },
+  "keywords": [
+    "redis",
+    "multi",
+    "dimensional",
+    "query",
+    "2d",
+    "3d",
+    "4d",
+    "index"
+  ],
+  "author": "rolandpoulter",
+  "license": "BSD 2",
+  "devDependencies": {
+    "ioredis": "^2.3.0"
+  }
+}
